@@ -1,0 +1,6 @@
+먼저 도커 데스크탑  https://www.docker.com/products/docker-desktop/ 설치해주세요
+깃헙 리포지토리 클론해서 받으신다음에
+폴더 열고 docker-compose up -d 명령어
+pip install -r requirements.txt
+python init_db.py
+순서대로 입력하신후에 베이스코드 참조해서 각각 개선점에 맞는 개선해주시면 됩니다
